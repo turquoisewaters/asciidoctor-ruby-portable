@@ -10,7 +10,7 @@
 * https://rubyinstaller.org/downloads/
 * Without Devkit to keep the size smaller ... ex. I didn't need the MSYS2 stuff.
 * At the time of this writing the latest version: 3.1.2-1
-* https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.1.2-1/rubyinstaller-3.1.2-1-x64.exe[Link to specific version]
+* [Link to specific version](https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.1.2-1/rubyinstaller-3.1.2-1-x64.exe)
 
 ### 2. Run installer.
 
