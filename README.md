@@ -1,4 +1,4 @@
-# asciidoctor-ruby-portable
+# asciidoctor-ruby-portable-windows
 
 # How I created a portable basic ruby with Asciidoctor installed for Windows
 
@@ -37,3 +37,6 @@ C:\Users\<username>\Documents\Ruby31-x64\bin>asciidoctor --version
 ```
 C:\Users\<username>\Documents\Ruby31-x64\bin>asciidoctor path/name/to_your_adoc_file.adoc
 ```
+
+### 5. Should be able to copy the Ruby folder and use asciidoctor.
+* Works for my needs, but this has not been thoroughly tested, your mileage my vary!
